@@ -4,6 +4,7 @@
 **/build/*
 dataset/*
 **/.ipynb_checkpoints/
+**/__pycache__/*
 
 # Editor directories and files
 .idea
